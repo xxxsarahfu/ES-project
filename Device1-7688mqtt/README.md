@@ -9,4 +9,6 @@ Since Linkit Samrt 7688 have 2 parts: MCU (compatible with Arduino) & MPU (OpenW
 * b. mqtt+mcu2mpu.py: </br>
 		-- upload to MPU by OpenWrt. </br>
 		-- get data from MCU to MPU, and then send data with MQTT to gateway. </br>
+* c. [optional] API_mcu_to_mpu.py:</br>
+		-- get sensor data and then directly upload data to cloud platform by API
 
